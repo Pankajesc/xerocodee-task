@@ -1,0 +1,33 @@
+.transform{
+    height: 28rem;
+    width: 80%;
+    margin:5rem auto;
+    border-radius: 2rem;
+    background: linear-gradient(211.18deg, #3171DE 18.85%, #4AC0F2 105.91%);
+}
+.transform h1{
+    padding-top: 5rem;
+    text-align: center;
+    color: white;
+    font-weight: 800;
+}
+.button{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    font-weight: 800;
+    background-color: white;
+    color: #5E5DEF;
+}
+.imageContainer{
+    margin-top: 2rem;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.image{
+    height: 20rem;
+    width: 30rem;
+}

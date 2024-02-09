@@ -1,0 +1,29 @@
+.ruler{
+    margin: 0rem auto;
+    margin-top: 3rem;
+    width: 80%;
+    size: 10px;
+}
+.footer{
+    margin: 1rem auto;
+    display: flex;
+    width: 80%;
+    justify-content: space-between;
+    align-items: center;
+}
+.terms{
+    margin-left: 7rem;
+    width: 30%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.connect{
+    width: 15%;
+    display: flex;
+    justify-content: space-evenly;
+}
+.terms a,.connect a{
+    text-decoration: none;
+    color: black;
+    font-weight: 800;
+}

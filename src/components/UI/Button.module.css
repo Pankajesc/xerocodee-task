@@ -1,0 +1,27 @@
+.btn{
+    height: 2.5rem;
+    padding: 5px 20px;
+    border: none;
+    border-radius: 25px;
+    font-size: 1rem;
+    color:white;
+    /* background: linear-gradient(0deg, #3171DE, #3171DE); */
+}
+.btn:hover{
+    cursor: pointer;
+    /* border: 2px solid purple;
+    background-color: white;
+    color: purple; */
+}
+.btn a{
+  text-decoration: none;
+  color: inherit;
+}
+/* .btn:disabled,
+.btn:disabled:hover,
+.btn:disabled:active{
+  background-color: #ccc;
+  color: #292929;
+  border-color: #ccc;
+  cursor: not-allowed;
+} */

@@ -1,0 +1,19 @@
+.main{
+    margin-top: 2rem;
+}
+.main h1{
+    text-align: center;
+}
+.main h1 span{
+    color: #704AF2;
+}
+.card{
+    width: 80%;
+    margin:0rem auto;
+    margin-top: 4rem;
+    margin-bottom: 2rem;
+}
+.teams{
+    display: flex;
+    justify-content: space-evenly;
+}

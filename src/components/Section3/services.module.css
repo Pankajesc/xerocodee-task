@@ -1,0 +1,13 @@
+.main{
+    margin-top: 5rem;
+}
+.main h1{
+    text-align: center;
+}
+.services{
+    width: 80%;
+    margin: 0rem auto;
+    display: grid;
+    grid-template-columns: repeat(3,30%);
+    justify-content: space-between;
+}

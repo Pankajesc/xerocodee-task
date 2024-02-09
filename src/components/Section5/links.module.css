@@ -1,0 +1,18 @@
+.linkPage{
+    width: 80%;
+    margin: 0rem auto;
+    display: flex;
+    justify-content: space-between;
+}
+.lists li{
+    margin-top: 0.5rem;
+    list-style: none;
+}
+.lists li a{
+    text-decoration: none;
+    color: black;
+}
+.lists h3{
+    margin-top: 10rem;
+    margin-bottom: 2rem;
+}

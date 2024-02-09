@@ -1,0 +1,30 @@
+.subscribe {
+	margin-top: 10rem;
+	height: 10rem;
+	width: 15rem;
+	background: #203c860d;
+	padding: 2rem;
+	border-radius: 2rem;
+}
+.subscribe p{
+    margin-top: 1rem;
+    font-size: 0.8rem;
+}
+
+.form input {
+    width: 12rem;
+    margin-top: 1rem;
+	background: #ffffff;
+	height: 3rem;
+	border-radius: 1rem;
+	border: none;
+    padding-left: 1rem;
+}
+.btn{
+    margin-left: -2rem;
+    height: 3rem;
+    width: 3rem;
+    border-radius: 50%;
+    background: #3171DE;
+    border: none;
+}

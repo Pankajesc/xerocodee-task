@@ -1,0 +1,29 @@
+.technologies{
+    height: 28rem;
+    margin: 0rem auto;
+    width: 80%;
+    background: #F7F7FD;
+    border-radius: 2rem;
+    margin-top: 5rem;
+}
+.technologies h1{
+    text-align: center;
+}
+.technologies h2{
+    margin-top: 2rem;
+    font-size: 1rem;
+    text-align: center;
+}
+.companies{
+    margin-top: 2rem;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.button{
+    display: flex;
+    justify-content: center;
+}
+.btn{
+    background-color:#3171DE;
+}
